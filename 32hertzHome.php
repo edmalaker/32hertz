@@ -35,7 +35,7 @@
             <a class="list-group-item" title="Get My Song Reviewed" href="http://getmysongreviewed.com" target="_blank">getmysongreviewed.com</a>
             <a class="list-group-item" title="Get A Record Deal: 100 Record Labels Accepting Demos" href="http://32hertz.com/get-a-record-deal-100-record-labels-accepting-demos/" target="_blank">Books</a>
             <a class="list-group-item" title="Malaker Blog" href="http://32hertz.com/blog/">Blog</a>
-            <a class="list-group-item" title="My Github" href="https://github.com/edmalaker target="_blank"">My Github</a>
+            <a class="list-group-item" title="My Github" href="https://github.com/edmalaker" target="_blank">My Github</a>
         </div>
     </div>
 
