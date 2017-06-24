@@ -32,10 +32,10 @@
             <div class="list-group top-text-margin">
             <a class="list-group-item" title="Malaker Web Design" href="http://malaker.32hertz.com" target="_blank">Web Design</a>
 <a class="list-group-item" title="Malaker Web Design Portfolio" href="http://32hertz.com/portfolio" target="_blank">Web Design Portfolio</a>
+            <a class="list-group-item" title="Get My Song Reviewed" href="http://getmysongreviewed.com" target="_blank">getmysongreviewed.com</a>
             <a class="list-group-item" title="Get A Record Deal: 100 Record Labels Accepting Demos" href="http://32hertz.com/get-a-record-deal-100-record-labels-accepting-demos/" target="_blank">Books</a>
             <a class="list-group-item" title="Malaker Blog" href="http://32hertz.com/blog/">Blog</a>
-            <a class="list-group-item" title="My Github" href="https://github.com/edmalaker target="_blank"">Blog</a>
-            <a class="list-group-item" title="Get My Song Reviewed" href="http://getmysongreviewed.com" target="_blank">getmysongreviewed.com</a>
+            <a class="list-group-item" title="My Github" href="https://github.com/edmalaker target="_blank"">My Github</a>
         </div>
     </div>
 
